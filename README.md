@@ -1,2 +1,2 @@
 # Python-Practice
-Learning Python from the ground up
+Learning Python from the ground up through exercises
